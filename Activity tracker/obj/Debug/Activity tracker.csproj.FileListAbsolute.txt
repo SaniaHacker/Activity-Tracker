@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\Activity tracker.exe.config
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\Activity tracker.exe
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\Activity tracker.pdb
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\obj\Debug\Activity tracker.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\obj\Debug\Activity_tracker.Form1.resources
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\obj\Debug\Activity_tracker.Properties.Resources.resources
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\obj\Debug\Activity tracker.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\obj\Debug\Activity tracker.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\obj\Debug\Activity tracker.exe
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\obj\Debug\Activity tracker.pdb
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\ZstdNet.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\obj\Debug\Activity tracker.exe.config
+C:\Users\user\Desktop\Big Project\Activity tracker\Activity tracker\obj\Debug\Activity tracker.csproj.CopyComplete
